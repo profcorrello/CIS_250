@@ -1,0 +1,59 @@
+{
+    "headers": [],
+    "subheaders": [],
+    "paragraphs": [
+        {
+            "text": "What I Hope to Achieve in This Course",
+            "font_name": "Default",
+            "font_size": "Default",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        {
+            "text": "I hope to get a good grade and learn some stuff about computers.",
+            "font_name": "Calibri",
+            "font_size": "Default",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        {
+            "text": "Big computers",
+            "font_name": "Calibri",
+            "font_size": "Default",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        {
+            "text": "Little computers",
+            "font_name": "Calibri",
+            "font_size": "Default",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        }
+    ],
+    "bullet_lists": [
+        {
+            "text": "Big computers",
+            "font_name": "Calibri",
+            "font_size": "Default",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        {
+            "text": "Little computers",
+            "font_name": "Calibri",
+            "font_size": "Default",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        }
+    ],
+    "images": [
+        "../media/image.jpg"
+    ]
+}
