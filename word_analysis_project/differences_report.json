@@ -1,0 +1,23 @@
+{
+    "dictionary_item_added": [
+        "root['email']"
+    ],
+    "values_changed": {
+        "root['age']": {
+            "new_value": 26,
+            "old_value": 25
+        },
+        "root['address']['city']": {
+            "new_value": "San Francisco",
+            "old_value": "New York"
+        },
+        "root['address']['zip']": {
+            "new_value": "94105",
+            "old_value": "10001"
+        },
+        "root['skills'][1]": {
+            "new_value": "JavaScript",
+            "old_value": "Java"
+        }
+    }
+}
