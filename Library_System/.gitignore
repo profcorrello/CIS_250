@@ -1,0 +1,31 @@
+# --- Python Environment ---
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# --- UV / Dependency Management ---
+# We commit uv.lock, but NOT the local cache
+.uv/
+
+# --- IDEs (Visual Studio / VS Code) ---
+.vscode/
+.vs/
+out/
+build/
+bin/
+obj/
+
+# --- Distribution / Packaging ---
+dist/
+eggs/
+*.egg-info/
+
+# --- Environment / Secrets ---
+.env
+*.log
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
